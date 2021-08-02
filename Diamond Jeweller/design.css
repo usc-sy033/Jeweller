@@ -1,0 +1,25 @@
+
+
+/*collapse buttono coloor
+ipad is kindda weird
+*/
+
+
+
+dt {margin-bottom: 20px;}
+a { color: black; }
+
+.btn{background-color: #2a55d6 !important;}
+
+.changeit {background-color: #3461eb;}
+
+.checked {
+    color: orange;
+  }
+ .navbar {
+	border-top: #3461eb solid 10px; 
+	border-bottom: #3461eb solid 10px; 
+ }
+
+
+
